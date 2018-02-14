@@ -7,7 +7,7 @@
 - Nagham Ashraf 31-1058
 - Omar Ehab 31-5003
 - Zyad Zakaria 31-0935
-- Amr Attia 31-1227 (Arwash wa7ed fel Component)
+- Amr Attia 31-12272 (Arwash wa7ed fel Component)
 
 4. *About*:
 
