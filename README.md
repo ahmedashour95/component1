@@ -3,7 +3,7 @@
 2. *Getting Started* : It is just a start for our software project.
 
 3. *Authors* : 
-- Ahmed Ashour 31-7631
+- Ahmed Ashour 31-7631 (tany arwash wa7d f component)
 - Nagham Ashraf 31-1058
 - Omar Ehab 31-5003
 - Zyad Zakaria 31-0935
