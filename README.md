@@ -6,7 +6,7 @@
 - Ahmed Ashour 31-7631 (tany arwash wa7d f component)
 - Nagham Ashraf 31-1058
 - Omar Ehab 31-5003
-- Zyad Zakaria 31-0935
+- Zyad Zakaria 31-0935 (DMETian)
 - Amr Attia 31-12272 (Arwash wa7ed fel Component)
 
 4. *About*:
