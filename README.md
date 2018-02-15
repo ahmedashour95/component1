@@ -15,7 +15,7 @@
 - Nagham Ashraf develops iOS applications & she wishes to learn developing using Angular.
 - Amr Attia is concerned with Media processing & he wishes to learn developing using Angular.
 - Zyad Zakaria develops android applications & he wishes to learn developing using Angular.
-- Omar Shalaby develops games & he wishes to learn developing using Angular.
+- Omar Shalaby Conscious observing being of games, film, art and people. Creating a horror game. Twiter: @omareh02.
 
 Have a nice day :wink:
 
