@@ -5,7 +5,7 @@
 3. *Authors* : 
 - Ahmed Ashour 31-7631 (tany arwash wa7d f component)
 - Nagham Ashraf 31-1058
-- Omar Ehab 31-5003
+- Omar Ehab 31-5003, Twiter: @omareh02.
 - Zyad Zakaria 31-0935 (DMETian)
 - Amr Attia 31-12272 (Arwash wa7ed fel Component)
 
@@ -15,7 +15,7 @@
 - Nagham Ashraf develops iOS applications & she wishes to learn developing using Angular.
 - Amr Attia is concerned with Media processing & he wishes to learn developing using Angular.
 - Zyad Zakaria develops android applications & he wishes to learn developing using Angular.
-- Omar Shalaby Conscious observing being of games, film, art and people. Creating a horror game. Twiter: @omareh02.
+- Omar Shalaby Conscious observing being of games, film, art and people. Creating a horror game. 
 
 Have a nice day :wink:
 
