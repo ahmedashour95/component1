@@ -1,4 +1,4 @@
-1.  Sprint 0
+1.  ## Sprint 0
 
 2. *Getting Started* : It is just a start for our software project.
 
